@@ -1,2 +1,2 @@
 # huffman2
-Huffman Cod file 
+Huffman Cod file
